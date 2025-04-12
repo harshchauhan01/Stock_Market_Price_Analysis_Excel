@@ -46,7 +46,7 @@ Navigate to the project directory and open the excel file.​
 ![Dashboard Screenshot](https://raw.githubusercontent.com/harshchauhan01/Stock_Market_Price_Analysis_Excel/main/SS/db3.png)
 ![Dashboard Screenshot](https://raw.githubusercontent.com/harshchauhan01/Stock_Market_Price_Analysis_Excel/main/SS/databsaess.png)
 For more download or check through linkedin   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/posts/harshchauhan7534_lpu-btech-excel-activity-7314976694715523072-WjWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYEAlgBqGTT6LsUIPmF10Lxo-gjhaceVsc))
+
 
 ### 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
