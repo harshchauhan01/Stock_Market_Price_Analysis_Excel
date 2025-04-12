@@ -41,6 +41,7 @@ Navigate to the project directory and open the excel file.​
 
 
 ### 📊 Dashboard Preview
+![Dashboard Screenshot](https://raw.githubusercontent.com/harshchauhan01/Stock_Market_Price_Analysis_Excel/main/SS/dashboard1.png)
 
 ### 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
